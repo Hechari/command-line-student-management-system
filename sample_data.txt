@@ -1,0 +1,5 @@
+1|Alice Johnson|20|Computer Science|3.85
+2|Brian Lee|22|Mathematics|3.40
+3|Carmen Diaz|19|Physics|3.95
+4|Dinesh Patel|21|Chemistry|3.10
+5|Eva Wong|23|Biology|3.70
